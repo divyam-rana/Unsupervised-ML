@@ -30,6 +30,7 @@ In today’s fast paced, reel-scrolling digital world, keeping readers engaged i
 This system will enhance user engagement, improve content discovery, and provide a seamless reading experience by reducing the effort required to find relevant articles. The recommender will be designed for news platforms, academic journals, or online media, ensuring that users receive high-quality, contextually relevant content suggestions.
 
 #**Findings and Interpretations**
+
 The following are the final findings and interpretations for our project. These are based on what we found in the analysis and experimentation section coupled with the exploration of data.
 EDA: For Article Length -  It is distributed around 350 words, with very less being over 1K . For Bigram and Trigram Analysis: For Bigrams : ‘united states’, ‘new york’ & ‘tell cnn’ as the top 3. For Tri Grams : ‘president barack obama’, ‘express commentary solely’& ‘opinion express commentary’ are the top 3
 Word cloud: The top three words in the wordcloud were found to be 'say', 'year', and 'one'. This represents that these words have the highest frequency of occurring in an article.
